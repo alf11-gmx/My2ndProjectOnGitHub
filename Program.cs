@@ -1,3 +1,5 @@
-﻿Console.WriteLine("main-start-again");
+﻿Console.WriteLine("main-start");
 Console.WriteLine("g2a");
 Console.WriteLine("g2b");
+Console.WriteLine("z1");
+Console.WriteLine("z2");
